@@ -12,7 +12,6 @@ This website presents critical research on how the proliferation of biased AI vo
 - **Audio Examples**: Problematic AI voice implementations from ElevenLabs
 - **Research Documents**: Supporting academic and journalistic sources
 - **Methodology**: Framework for detecting and addressing AI voice bias
-- **Responsive Design**: Mobile-friendly layout with tasteful typography
 
 ## Structure
 
@@ -89,14 +88,4 @@ jobs:
 3. Ensure proper URL encoding for filenames with spaces
 
 ### Placeholder Content
-The website includes placeholder sections for future audio examples and case studies. Replace the placeholder content with actual materials as they become available.
-
-## Browser Support
-
-- Modern browsers (Chrome, Firefox, Safari, Edge)
-- Mobile responsive design
-- Audio element support required for full functionality
-
-## License
-
-All rights reserved. This research website and its content are proprietary.
+I've put  sections for future audio examples and case studies. Replace the placeholder content with actual materials as they become available.
